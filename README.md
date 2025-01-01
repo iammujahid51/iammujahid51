@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Mujahid Hossain! 👋
 
-<!--
-**iammujahid51/iammujahid51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 About Me
+I am a passionate **Web Developer** specializing in building modern, responsive, and user-friendly web applications. I enjoy working with cutting-edge technologies and am always eager to learn and grow.
 
-Here are some ideas to get you started:
+- 🌱 **Currently Learning:** Advanced React and Serverless architectures.
+- 👯 **Looking to Collaborate On:** Exciting web development projects and open-source contributions.
+- 💬 **Ask Me About:** Frontend development, React, and Firebase integrations.
+- 📫 **How to Reach Me:** [mujahid@example.com](mailto:mujahid@example.com)
+- ⚡ **Fun Fact:** I love exploring new web development frameworks and staying updated with tech trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 My Skill Set
+### 🌐 Frontend
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Next.js
+
+### 🛠️ Backend & Database
+- **Backend Services:** Firebase
+- **Databases:** MongoDB
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujahidhossain&show_icons=true&theme=radical" alt="Mujahid's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidhossain&theme=radical" alt="Mujahid's GitHub Streak Stats" />
+</p>
+
+---
+
+## 📁 Featured Projects
+### [Project Name](https://github.com/mujahidhossain/projectname)
+**Description:** A modern web application built with React and Firebase for seamless user experience.  
+**Technologies:** React, Firebase, MongoDB
+
+---
+
+### [Project Name](https://github.com/mujahidhossain/projectname)
+**Description:** A server-rendered app leveraging Next.js for improved performance and SEO.  
+**Technologies:** Next.js, Firebase
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mujahidhossain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%20Visit-%23f65e85?style=flat-square&logo=firefox)](https://mujahidportfolio.com)
+
+---
+
+⚡ **Thank you for visiting my profile! Let's create amazing projects together!**
