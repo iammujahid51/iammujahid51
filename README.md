@@ -32,19 +32,6 @@ I am a passionate **Web Developer** specializing in building modern, responsive,
 
 ---
 
-## 📁 Featured Projects
-### [Project Name](https://github.com/mujahidhossain/projectname)
-**Description:** A modern web application built with React and Firebase for seamless user experience.  
-**Technologies:** React, Firebase, MongoDB
-
----
-
-### [Project Name](https://github.com/mujahidhossain/projectname)
-**Description:** A server-rendered app leveraging Next.js for improved performance and SEO.  
-**Technologies:** Next.js, Firebase
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mujahidhossain)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%20Visit-%23f65e85?style=flat-square&logo=firefox)](https://mujahidportfolio.com)
