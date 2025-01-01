@@ -6,7 +6,7 @@ I am a passionate **Web Developer** specializing in building modern, responsive,
 - 🌱 **Currently Learning:** Advanced React and Serverless architectures.
 - 👯 **Looking to Collaborate On:** Exciting web development projects and open-source contributions.
 - 💬 **Ask Me About:** Frontend development, React, and Firebase integrations.
-- 📫 **How to Reach Me:** [mujahid@example.com](mailto:mujahid@example.com)
+- 📫 **How to Reach Me:** 
 - ⚡ **Fun Fact:** I love exploring new web development frameworks and staying updated with tech trends.
 
 ---
